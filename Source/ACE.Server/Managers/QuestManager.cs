@@ -212,6 +212,8 @@ namespace ACE.Server.Managers
                     player.ContractManager.NotifyOfQuestUpdate(quest.QuestName);
                 }
             }
+            if (Creature is Player masteryPlayer)
+                QuestMasteryManager.Observe(masteryPlayer, questName);
         }
 
         /// <summary>
@@ -220,6 +222,8 @@ namespace ACE.Server.Managers
         public void SetQuestCompletions(string questFormat, int questCompletions = 0)
         {
             var questName = GetQuestName(questFormat);
+
+            if (QuestMasteryCatalog.IsPermanentLedger(questName)) return;
 
             var maxSolves = GetMaxSolves(questName);
 
@@ -377,6 +381,8 @@ namespace ACE.Server.Managers
         {
             var questName = GetQuestName(quest);
 
+            if (QuestMasteryCatalog.IsPermanentLedger(questName)) return;
+
             var existing = GetQuest(questName);
 
             if (existing != null)
@@ -411,6 +417,8 @@ namespace ACE.Server.Managers
 
             var questName = GetQuestName(questFormat);
 
+            if (QuestMasteryCatalog.IsPermanentLedger(questName)) return;
+
             if (Creature is Player player)
             {
                 if (player.Character.EraseQuest(questName, player.CharacterDatabaseLock))
@@ -434,26 +442,8 @@ namespace ACE.Server.Managers
         /// </summary>
         public void EraseAll()
         {
-            if (Debug)
-                Console.WriteLine($"{Name}.QuestManager.EraseAll");
-
-            if (Creature is Player player)
-            {
-                player.Character.EraseAllQuests(out var questNamesErased, player.CharacterDatabaseLock);
-
-                if (questNamesErased.Count > 0)
-                {
-                    player.CharacterChangesDetected = true;
-
-                    foreach (var questName in questNamesErased)
-                        player.ContractManager.NotifyOfQuestUpdate(questName);
-                }
-            }
-            else
-            {
-                // Not a player
-                runtimeQuests.Clear();
-            }
+            foreach (var quest in GetQuests().Where(q => !QuestMasteryCatalog.IsPermanentLedger(q.QuestName)).ToList())
+                Erase(quest.QuestName);
         }
 
         /// <summary>

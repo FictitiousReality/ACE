@@ -50,7 +50,7 @@ namespace ACE.Server.WorldObjects
         /// <param name="amount">The amount of XP to grant to the player</param>
         /// <param name="xpType">The source of the XP being granted</param>
         /// <param name="shareable">If TRUE, this XP can be shared with fellowship members</param>
-        public void GrantXP(long amount, XpType xpType, ShareType shareType = ShareType.All)
+        public void GrantXP(long amount, XpType xpType, ShareType shareType = ShareType.All, XpType? masterySource = null)
         {
             if (IsOlthoiPlayer)
             {
@@ -64,12 +64,13 @@ namespace ACE.Server.WorldObjects
             {
                 // this will divy up the XP, and re-call this function
                 // with ShareType.Fellowship removed
-                Fellowship.SplitXp((ulong)amount, xpType, shareType, this);
+                Fellowship.SplitXp((ulong)amount, xpType, shareType, this, masterySource ?? xpType);
                 return;
             }
 
             // Make sure UpdateXpAndLevel is done on this players thread
-            EnqueueAction(new ActionEventDelegate(() => UpdateXpAndLevel(amount, xpType)));
+            var personalAmount = QuestMasteryManager.ApplyPersonalBonus(this, amount, masterySource ?? xpType);
+            EnqueueAction(new ActionEventDelegate(() => UpdateXpAndLevel(personalAmount, xpType)));
 
             // for passing XP up the allegiance chain,
             // this function is only called at the very beginning, to start the process.

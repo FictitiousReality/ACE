@@ -1,0 +1,1542 @@
+[
+  {
+    "display_name": "Aerbax's Citadel",
+    "ledger": "qm_v1_aerbax_s_citadel",
+    "source_keys": [
+      "AerbaxCompletedWait"
+    ],
+    "objective": "Use the post-victory return portal, then claim the Emissary reward; all armor cycles are one adventure.",
+    "route_limit": "Observe both final reward branches into one protected ledger; never count platform access, crystal delivery, repeat title or armor pieces separately.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aerbax's_Citadel"
+    ]
+  },
+  {
+    "display_name": "Aerbax's Prodigal Human",
+    "ledger": "qm_v1_aerbax_s_prodigal_human",
+    "source_keys": [
+      "ProdigalHumanCompleted_1107"
+    ],
+    "objective": "Dojiro Sangi's Ring → Ryukai Hiro",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aerbax's_Prodigal_Human"
+    ]
+  },
+  {
+    "display_name": "Aerbax's Prodigal Lugian",
+    "ledger": "qm_v1_aerbax_s_prodigal_lugian",
+    "source_keys": [
+      "AerbaxsProdigalLugian_Repeat"
+    ],
+    "objective": "Sigil of Linvak Tukal → Lord Kresovus",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aerbax's_Prodigal_Lugian"
+    ]
+  },
+  {
+    "display_name": "Aerbax's Prodigal Mosswart",
+    "ledger": "qm_v1_aerbax_s_prodigal_mosswart",
+    "source_keys": [
+      "AerbaxsProdigalMosswartCompleted"
+    ],
+    "objective": "Recover the Holding plans, obtain Tharin’s translation, and report to Sergeant Brigitta.",
+    "route_limit": "Observe the two final report branches once. Player objective must describe the plans/report, without promising that the optional boss or a separate shaman flag is enforced.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aerbax's_Prodigal_Mosswart"
+    ]
+  },
+  {
+    "display_name": "Aerbax's Prodigal Shadow",
+    "ledger": "qm_v1_aerbax_s_prodigal_shadow",
+    "source_keys": [
+      "ProdigalShadowRepeat"
+    ],
+    "objective": "Defeat Kirienne Palacost and return Scrap of Shadow Essence to Riordin Nightbane.",
+    "route_limit": "None beyond registering a separate protected mastery ledger.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aerbax's_Prodigal_Shadow"
+    ]
+  },
+  {
+    "display_name": "Aetherium Raid",
+    "ledger": "qm_v1_aetherium_raid",
+    "source_keys": [
+      "AetheriumRaidsLowCompleted"
+    ],
+    "objective": "Dull Aetherium Ore Fragment → Sir Oakley",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aetherium_Raid_(High)",
+      "https://asheron.info/wiki/index.php/Aetherium_Raid_(Low)"
+    ]
+  },
+  {
+    "display_name": "Alfrin's Stolen Supplies",
+    "ledger": "qm_v1_alfrin_s_stolen_supplies",
+    "source_keys": [
+      "DrudgeHideoutCompleted_1111"
+    ],
+    "objective": "Robber Baron Head → Alfrin",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Alfrin's_Stolen_Supplies"
+    ]
+  },
+  {
+    "display_name": "Apostate Excavation Investigation",
+    "ledger": "qm_v1_apostate_excavation_investigation",
+    "source_keys": [
+      "GearKnightExcavationComplete0809"
+    ],
+    "objective": "Apostate Excavation Master's Orders → Felizio Calmasi",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Apostate_Excavation_Investigation"
+    ]
+  },
+  {
+    "display_name": "Apostate Finale",
+    "ledger": "qm_v1_apostate_finale",
+    "source_keys": [
+      "ApostateFinaleCompleted_0910"
+    ],
+    "objective": "Shard of the Apostate Grand Director's Broken Mask → Emissary of Asheron",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Apostate_Finale"
+    ]
+  },
+  {
+    "display_name": "Asheron's Departure (Bur flagging)",
+    "ledger": "qm_v1_asheron_s_departure_bur_flagging",
+    "source_keys": [
+      "AsheronsDepartureJournal"
+    ],
+    "objective": "Finish the three Realaidain heirlooms and return the departure journal to Shan Zhen.",
+    "route_limit": "Observe the upper final journal flag only. Keep one canonical Bur-flagging ledger; add lower-route coverage only after its separate three-flag rule is implemented.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Asheron's_Departure"
+    ]
+  },
+  {
+    "display_name": "Assault Quest",
+    "ledger": "qm_v1_assault_quest",
+    "source_keys": [
+      "TurshTotemHighComplete_0511"
+    ],
+    "objective": "Tursh Totem Shard → Tirenia",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Assault_Quest"
+    ]
+  },
+  {
+    "display_name": "Atamarr Tasks",
+    "ledger": "qm_v1_atamarr_tasks",
+    "source_keys": [
+      "AtamarrDone"
+    ],
+    "objective": "Finish any assigned Iron/Copper/Bronze/Silver mission and claim Atamarr’s final reward; one family credit.",
+    "route_limit": "Observe all four final Atamarr rewards into one ledger; preserve ordinary assignment selection and reset behavior. Do not grant credit merely for selecting a task.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Atamarr_Tasks"
+    ]
+  },
+  {
+    "display_name": "Aun Tanua's War Taiaha Quest",
+    "ledger": "qm_v1_aun_tanua_s_war_taiaha_quest",
+    "source_keys": [
+      "TanuaCompleted"
+    ],
+    "objective": "Final Taiaha return to Bachus; wiki records removed dungeon restrictions. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Aun_Tanua's_War_Taiaha_Quest"
+    ]
+  },
+  {
+    "display_name": "Banderling Haunt",
+    "ledger": "qm_v1_banderling_haunt",
+    "source_keys": [
+      "QuestBanderlingHauntCompleted0105"
+    ],
+    "objective": "Oily Stone → Cyphis Suldow",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Banderling_Haunt"
+    ]
+  },
+  {
+    "display_name": "Blightfinger Quest",
+    "ledger": "qm_v1_blightfinger_quest",
+    "source_keys": [
+      "TentaclesTthuunComplete0408"
+    ],
+    "objective": "Return Hand of Blightfinger to Merwart Mundagurg.",
+    "route_limit": "None beyond the independent ledger.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Blightfinger_Quest"
+    ]
+  },
+  {
+    "display_name": "Bloodstone Investigation",
+    "ledger": "qm_v1_bloodstone_investigation",
+    "source_keys": [
+      "BloodstoneFactoryCompleted_0211"
+    ],
+    "objective": "Shattered Master Bloodstone Shard → Sir Donovan",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Bloodstone_Investigation"
+    ]
+  },
+  {
+    "display_name": "Burun Liberator",
+    "ledger": "qm_v1_burun_liberator",
+    "source_keys": [
+      "BurunLiberator_Repeat"
+    ],
+    "objective": "Link of a Falatacot Chain → Scout Leader Tmauruk",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Burun_Liberator"
+    ]
+  },
+  {
+    "display_name": "Climbing the Viridian Deru Tree",
+    "ledger": "qm_v1_climbing_the_viridian_deru_tree",
+    "source_keys": [
+      "ClimbedViridianDeru"
+    ],
+    "objective": "Reach Doriathazaar at the top and claim the Crown of the Deru/amber reward.",
+    "route_limit": "Observe the top-of-tree reward stamp once; never award from possession/turn-in of amber or from the separate Deru Guardian quest.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Climbing_the_Viridian_Deru_Tree"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Broodu)",
+    "ledger": "qm_v1_clutch_of_kings_broodu",
+    "source_keys": [
+      "BrooduComplete"
+    ],
+    "objective": "Collect the personal Broodu victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Broodu)"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Browerk)",
+    "ledger": "qm_v1_clutch_of_kings_browerk",
+    "source_keys": [
+      "BrowerkComplete"
+    ],
+    "objective": "Collect the personal Browerk victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Browerk)"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Keerik)",
+    "ledger": "qm_v1_clutch_of_kings_keerik",
+    "source_keys": [
+      "KeerikComplete"
+    ],
+    "objective": "Collect the personal Keerik victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Keerik)"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Kiree)",
+    "ledger": "qm_v1_clutch_of_kings_kiree",
+    "source_keys": [
+      "KireeComplete"
+    ],
+    "objective": "Collect the personal Kiree victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Kiree)"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Reeshan)",
+    "ledger": "qm_v1_clutch_of_kings_reeshan",
+    "source_keys": [
+      "ReeshanComplete"
+    ],
+    "objective": "Collect the personal Reeshan victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Reeshan)"
+    ]
+  },
+  {
+    "display_name": "Clutch of Kings (Rehir)",
+    "ledger": "qm_v1_clutch_of_kings_rehir",
+    "source_keys": [
+      "RehirComplete"
+    ],
+    "objective": "Collect the personal Rehir victory hide and claim the corresponding Cragstone Guard reward.",
+    "route_limit": "Observe all six random-reward branches through the same Complete key, once per character. Do not count item vs XP alternatives, hide-title exchanges or the all-Kings wrapper again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Clutch_of_Kings_(Rehir)"
+    ]
+  },
+  {
+    "display_name": "Coral Tower Destroyer",
+    "ledger": "qm_v1_coral_tower_destroyer",
+    "source_keys": [
+      "TaskCoralTowersWait"
+    ],
+    "objective": "Destroy all five colored Coral Towers and report to the faction agent.",
+    "route_limit": "Observe the three final Wait writes once; do not award on a single tower or faction change.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Coral_Tower_Destroyer"
+    ]
+  },
+  {
+    "display_name": "Count Phainor's Amulet",
+    "ledger": "qm_v1_count_phainor_s_amulet",
+    "source_keys": [
+      "GraverobberCompleted_0213"
+    ],
+    "objective": "Claim the final Grularr reward beyond Count Phainor’s chamber.",
+    "route_limit": "Observe the final NPC’s completion write once; checkpoint conversations and legendary counters give no extra credit.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Count_Phainor's_Amulet"
+    ]
+  },
+  {
+    "display_name": "Cow Tipping",
+    "ledger": "qm_v1_cow_tipping",
+    "source_keys": [
+      "CowTipWait"
+    ],
+    "objective": "Complete Dwennon’s 300 cow tips and claim the named quest reward.",
+    "route_limit": "Observe reward Wait once. Repeated tips or resets cannot increase the independent mastery ledger.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Cow_Tipping"
+    ]
+  },
+  {
+    "display_name": "Crystal Minds and Shattered Souls",
+    "ledger": "qm_v1_crystal_minds_and_shattered_souls",
+    "source_keys": [
+      "GOTSOULSHATTERREWARD"
+    ],
+    "objective": "Return An unknown crystal to the Student after the Dark Tree and Valara stages.",
+    "route_limit": "Observe only GOTSOULSHATTERREWARD; exclude the two earlier crystal flags.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Crystal_Minds_and_Shattered_Souls"
+    ]
+  },
+  {
+    "display_name": "Crystalline Bound Wisp",
+    "ledger": "qm_v1_crystalline_bound_wisp",
+    "source_keys": [
+      "CrystallineSkillTest10109Wait"
+    ],
+    "objective": "Reach the Bound Wisp across the floating platforms and claim its reward.",
+    "route_limit": "Observe this endpoint reward once; keep it separate from Crystalline Markers.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Crystalline_Bound_Wisp"
+    ]
+  },
+  {
+    "display_name": "Crystalline Markers",
+    "ledger": "qm_v1_crystalline_markers",
+    "source_keys": [
+      "CrystallineMarker25x"
+    ],
+    "objective": "Find all 25 distinct crystals and claim Jyotsana’s final marker reward.",
+    "route_limit": "One final 25-marker credit; do not award five credits for five groups or count repeated crystal visits.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Crystalline_Markers"
+    ]
+  },
+  {
+    "display_name": "Dagger of Tikola Quest",
+    "ledger": "qm_pilot_dagger_of_tikola_v1",
+    "source_keys": [
+      "fachubfolthid"
+    ],
+    "objective": "Dull Dagger → Warden",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Dagger_of_Tikola_Quest"
+    ]
+  },
+  {
+    "display_name": "Dark Isle Delivery",
+    "ledger": "qm_v1_dark_isle_delivery",
+    "source_keys": [
+      "TaskDIDeliveryWait"
+    ],
+    "objective": "Deliver the assigned fin to The Deep on Dark Isle, then report back.",
+    "route_limit": "One ledger for all faction agents, credited only on their final report reward.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Dark_Isle_Delivery"
+    ]
+  },
+  {
+    "display_name": "Dark Isle Scouting",
+    "ledger": "qm_v1_dark_isle_scouting",
+    "source_keys": [
+      "TaskDIScoutComplete"
+    ],
+    "objective": "Visit all three Dark Isle rocks with the perception crystal and report back.",
+    "route_limit": "Observe all six final Complete writes as one objective; do not count each rock or route separately.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Dark_Isle_Scouting"
+    ]
+  },
+  {
+    "display_name": "Death's Allure",
+    "ledger": "qm_v1_death_s_allure",
+    "source_keys": [
+      "DeathsAllureQuestFinished"
+    ],
+    "objective": "Feed each of six distinct Baby Thrungus and claim the Hermit reward.",
+    "route_limit": "One credit on the Hermit’s final stamp, independent of the native resettable feedings.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Death's_Allure"
+    ]
+  },
+  {
+    "display_name": "Deewain's Dark Cavern",
+    "ledger": "qm_v1_deewain_s_dark_cavern",
+    "source_keys": [
+      "DeewainCompleted0211"
+    ],
+    "objective": "Energy Infused Rock → Fayza",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Deewain's_Dark_Cavern"
+    ]
+  },
+  {
+    "display_name": "Defeating Bandit Mana Hunter Boss",
+    "ledger": "qm_v1_defeating_bandit_mana_hunter_boss",
+    "source_keys": [
+      "TaskFreebooterBanditBossKillWait"
+    ],
+    "objective": "Complete the assigned Bandit Mana Hunter Boss kill and report.",
+    "route_limit": "One ledger across all factions; credit final report, not assignment or ordinary bandit kills.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Defeating_Bandit_Mana_Hunter_Boss"
+    ]
+  },
+  {
+    "display_name": "Defeating Vaeshok",
+    "ledger": "qm_v1_defeating_vaeshok",
+    "source_keys": [
+      "TaskDIRuschkBossKillTaskWait"
+    ],
+    "objective": "Defeat Vaeshok for the Society assignment and claim its reward.",
+    "route_limit": "One final report credit across Society alternatives.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Defeating_Vaeshok"
+    ]
+  },
+  {
+    "display_name": "Defense of Zaikhal",
+    "ledger": "qm_v1_defense_of_zaikhal",
+    "source_keys": [
+      "ZaikhalDefenseCopperComplete_0511"
+    ],
+    "objective": "Copper Knight Medallion → Jun Sawashima",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Defense_of_Zaikhal"
+    ]
+  },
+  {
+    "display_name": "Dericost Ritual Investigation",
+    "ledger": "qm_v1_dericost_ritual_investigation",
+    "source_keys": [
+      "RitualHuntCompleted_0311"
+    ],
+    "objective": "Visit all ten enchanted mnemosynes and report to Sir Learth.",
+    "route_limit": "Observe both final completion writes once; later Halt Dericost Ritual access is not a second credit for this investigation.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Dericost_Ritual_Investigation"
+    ]
+  },
+  {
+    "display_name": "Disrupting the Mana Siphon",
+    "ledger": "qm_v1_disrupting_the_mana_siphon",
+    "source_keys": [
+      "GearknightInvasionHighSiphonWait_1009"
+    ],
+    "objective": "Deliver the unstable stone to the high-level Mana Siphon, then report to the Society agent.",
+    "route_limit": "One final report ledger for the three Society routes. Do not count the nearby low-level siphon or its separate stone task as this high-level objective.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Disrupting_the_Mana_Siphon"
+    ]
+  },
+  {
+    "display_name": "Dream Reaver Investigation",
+    "ledger": "qm_v1_dream_reaver_investigation",
+    "source_keys": [
+      "BTMCompleted_0513"
+    ],
+    "objective": "Return the final Virindi Sentinel’s Message Shard to the Delegate.",
+    "route_limit": "Observe both genuine final Delegate branches once, not the start flag or shared Legendary counter.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Dream_Reaver_Investigation"
+    ]
+  },
+  {
+    "display_name": "Drudge Aviator",
+    "ledger": "qm_v1_drudge_aviator",
+    "source_keys": [
+      "QuestReconnaissanceCompleted0105"
+    ],
+    "objective": "Final Flying Machine Plans return to Aludi; resolves earlier Reconnaissance label. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Drudge_Aviator"
+    ]
+  },
+  {
+    "display_name": "Enrico's Betrayal",
+    "ledger": "qm_v1_enrico_s_betrayal",
+    "source_keys": [
+      "EnricosBetrayalComplete_0511"
+    ],
+    "objective": "Return all three letters to Enrico di Bellenesse.",
+    "route_limit": "Observe only the final conjunction's complete flag.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Enrico's_Betrayal"
+    ]
+  },
+  {
+    "display_name": "Faces of the Mukkir",
+    "ledger": "qm_v1_faces_of_the_mukkir",
+    "source_keys": [
+      "FacesMukkirComplete1005"
+    ],
+    "objective": "Alizari's Encoded Notes → Qath al-Haddash",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Faces_of_the_Mukkir"
+    ]
+  },
+  {
+    "display_name": "Falatacot Depot Quest",
+    "ledger": "qm_v1_falatacot_depot_quest",
+    "source_keys": [
+      "FalatacotDepotQuest_Completed"
+    ],
+    "objective": "Translated Orders for Zrikux → Neelic",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Falatacot_Depot_Quest"
+    ]
+  },
+  {
+    "display_name": "Fear Factory Quest",
+    "ledger": "qm_v1_fear_factory_quest",
+    "source_keys": [
+      "FearFactoryCompleted_0813"
+    ],
+    "objective": "Free five Shadow Captives and report to Geilla.",
+    "route_limit": "Observe Geilla’s final completion once, never individual captives or the optional chest.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Fear_Factory_Quest"
+    ]
+  },
+  {
+    "display_name": "Fiun Healing Machine Quest",
+    "ledger": "qm_v1_fiun_healing_machine_quest",
+    "source_keys": [
+      "FiunHealingMachineCompleted_0511"
+    ],
+    "objective": "Fiun Healing Machine → Scorus",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Fiun_Healing_Machine_Quest"
+    ]
+  },
+  {
+    "display_name": "Fiun Spellcasting Gloves Quest",
+    "ledger": "qm_v1_fiun_spellcasting_gloves_quest",
+    "source_keys": [
+      "SpellCastingGloves"
+    ],
+    "objective": "Final research-note return to Senior Sage Shibak; wiki start 90+. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Fiun_Spellcasting_Gloves_Quest"
+    ]
+  },
+  {
+    "display_name": "Foundry of Izexi Quest",
+    "ledger": "qm_v1_foundry_of_izexi_quest",
+    "source_keys": [
+      "FoundryofIzexiCompleted_1212"
+    ],
+    "objective": "Ancient Falatacot Symbol → Fahneph",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Foundry_of_Izexi_Quest"
+    ]
+  },
+  {
+    "display_name": "Frest Greelving's Haunted Mansion",
+    "ledger": "qm_v1_frest_greelving_s_haunted_mansion",
+    "source_keys": [
+      "GAVEEVILCOUCH"
+    ],
+    "objective": "Finish the dungeon's Dark Sarcophagus objective and claim the Evil Couch from Frest.",
+    "route_limit": "Observe GAVEEVILCOUCH only, not the preliminary item-return flags. No bound final item is needed because the personal upstream participation guard is audited.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Frest_Greelving's_Haunted_Mansion"
+    ]
+  },
+  {
+    "display_name": "Gauntlet",
+    "ledger": "qm_v1_gauntlet",
+    "source_keys": [
+      "GauntletWinsCounter"
+    ],
+    "objective": "Finish all twelve Gauntlet stages and claim a full-win reward.",
+    "route_limit": "Observe a successful full-win counter update once. Do not count partial cash-outs, ten-win boss access or each Society as extra quests.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Gauntlet"
+    ]
+  },
+  {
+    "display_name": "Gear Crossbow Quest",
+    "ledger": "qm_v1_gear_crossbow_quest",
+    "source_keys": [
+      "gearxbowwait"
+    ],
+    "objective": "Free Ordas Myr and claim the Gear Crossbow reward.",
+    "route_limit": "One credit on Ordas’s final reward, independent of crossbow roll or combat route.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Gear_Crossbow_Quest"
+    ]
+  },
+  {
+    "display_name": "Ghost Hunter Quest",
+    "ledger": "qm_v1_ghost_hunter_quest",
+    "source_keys": [
+      "GhostHunterWait"
+    ],
+    "objective": "Spectral Heart → Sharia Blackmist",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Ghost_Hunter_Quest"
+    ]
+  },
+  {
+    "display_name": "Glenden Wood Invasion",
+    "ledger": "qm_v1_glenden_wood_invasion",
+    "source_keys": [
+      "Completed_GWI80_1205",
+      "Completed_GWI100_1205",
+      "Completed_GWI130_1205"
+    ],
+    "objective": "Rescue the captive and report to the matching Glenden Wood captain, any tier.",
+    "route_limit": "Map all three final completion keys to one ledger; do not count a rescue tier or reward exchange again.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Glenden_Wood_Invasion"
+    ]
+  },
+  {
+    "display_name": "Grael's Summoning Chamber",
+    "ledger": "qm_v1_grael_s_summoning_chamber",
+    "source_keys": [
+      "GraelsSummoningChamber_Wait"
+    ],
+    "objective": "Return Heart of Archmage Aigonne, then Head of Pontifex Maegris to Jathaq al-Nishadina.",
+    "route_limit": "Observe the quest-specific wait flag. Never use shared CanPickupSilveranToken as the mastery source.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Grael's_Summoning_Chamber"
+    ]
+  },
+  {
+    "display_name": "Graveyard Delivery",
+    "ledger": "qm_v1_graveyard_delivery",
+    "source_keys": [
+      "TaskGrave2FedExWait"
+    ],
+    "objective": "Deliver personal supplies to Massilor and report to the faction agent.",
+    "route_limit": "One final report credit across factions; other crypt rat tasks remain separate.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Graveyard_Delivery"
+    ]
+  },
+  {
+    "display_name": "Guardian of the Deru Trees of Marae Lassel",
+    "ledger": "qm_v1_guardian_of_the_deru_trees_of_marae_lassel",
+    "source_keys": [
+      "GuardianoftheDeruTrees_Completed"
+    ],
+    "objective": "Finish the jelly/shard/fetish chain and report to Aun Kimintari.",
+    "route_limit": "Observe only Kimintari’s final Completed write; preserve the chain’s native flags as temporary inputs.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Guardian_of_the_Deru_Trees_of_Marae_Lassel"
+    ]
+  },
+  {
+    "display_name": "Halt Dericost Ritual Quest",
+    "ledger": "qm_v1_halt_dericost_ritual_quest",
+    "source_keys": [
+      "RitualTimeCompleted_0411"
+    ],
+    "objective": "Sealed Tome → Lady Daenerah",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Halt_Dericost_Ritual_Quest"
+    ]
+  },
+  {
+    "display_name": "Hamud's Demise",
+    "ledger": "qm_v1_hamud_s_demise",
+    "source_keys": [
+      "HamudsDemiseCompleted_0511"
+    ],
+    "objective": "Hamud's Last Testament → Devana bint Hamudi",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Hamud's_Demise"
+    ]
+  },
+  {
+    "display_name": "Harlune's Diplomacy",
+    "ledger": "qm_v1_harlune_s_diplomacy",
+    "source_keys": [
+      "CHDSCompletedOnce0608"
+    ],
+    "objective": "Falatacot Blood Prophetess Trinket → Roderick",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Harlune's_Diplomacy"
+    ]
+  },
+  {
+    "display_name": "Hea Bone and Hide Shirt Quest",
+    "ledger": "qm_v1_hea_bone_and_hide_shirt_quest",
+    "source_keys": [
+      "HeaBoneHeadTurnin",
+      "HeaBoneTreatyTurnin"
+    ],
+    "objective": "Return either Big Chief Hagra's head or his peaceful treaty to Hea Kassoka.",
+    "route_limit": "Treat both final flags as alternatives for one ledger. Do not require both routes or count the common flag twice.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Hea_Bone_and_Hide_Shirt_Quest"
+    ]
+  },
+  {
+    "display_name": "Head of Baron Entemarre",
+    "ledger": "qm_v1_head_of_baron_entemarre",
+    "source_keys": [
+      "CampEntemarreCompleted"
+    ],
+    "objective": "Entemarre's Head → Hashina",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Head_of_Baron_Entemarre"
+    ]
+  },
+  {
+    "display_name": "Hoshino Fortress Infiltration",
+    "ledger": "qm_v1_hoshino_fortress_infiltration",
+    "source_keys": [
+      "HoshinoTowerComplete_0812"
+    ],
+    "objective": "Return First Lieutenant's Insignia to Mareeno Donn after Hoshino Tower.",
+    "route_limit": "Observe only HoshinoTowerComplete_0812, not HoshinoFortPart2 or the generic legendary counter.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Hoshino_Fortress_Infiltration"
+    ]
+  },
+  {
+    "display_name": "Hoshino Must Die",
+    "ledger": "qm_v1_hoshino_must_die",
+    "source_keys": [
+      "DefeatHoshinoKeiCompleted_0113"
+    ],
+    "objective": "Mirror Shard → Spirit of Bist'elle",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Hoshino_Must_Die"
+    ]
+  },
+  {
+    "display_name": "Ithaenc Quiddity Seed Quest",
+    "ledger": "qm_v1_ithaenc_quiddity_seed_quest",
+    "source_keys": [
+      "clawofthehopeslayerfirstrun"
+    ],
+    "objective": "Final Hopeslayer claw return to Aun Aemaua, not Avoren skull intermediate hand-in. Seed flagging remains a prerequisite. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Ithaenc_Quiddity_Seed_Quest"
+    ]
+  },
+  {
+    "display_name": "Janthef's Release",
+    "ledger": "qm_v1_janthef_s_release",
+    "source_keys": [
+      "EscapeCompleted_0213"
+    ],
+    "objective": "Defeat Janthef and claim the spawned Spirit’s final reward.",
+    "route_limit": "One final Spirit reward credit; no stage/manifestation bonuses.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Janthef's_Release"
+    ]
+  },
+  {
+    "display_name": "Jester Focuses",
+    "ledger": "qm_v1_jester_focuses",
+    "source_keys": [
+      "JesterFocusesWait"
+    ],
+    "objective": "Empowered K'nath Core → Jester",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Jester_Focuses"
+    ]
+  },
+  {
+    "display_name": "Jester's Lost Marbles",
+    "ledger": "qm_v1_jester_s_lost_marbles",
+    "source_keys": [
+      "jestermarkercomplete"
+    ],
+    "objective": "Find all ten personal Mhoire Armory markers, then return Jester's Marker for Secret Keeper.",
+    "route_limit": "Observe jestermarkercomplete. Do not count the armory entry flag or surface-marble title. One credit for the marker objective, regardless of spectral-weapon work.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Jester's_Lost_Marbles"
+    ]
+  },
+  {
+    "display_name": "Kidnapped Handmaiden",
+    "ledger": "qm_v1_kidnapped_handmaiden",
+    "source_keys": [
+      "KidnapPrincessComplete_0410"
+    ],
+    "objective": "Cure Ayaname with the boss potion and report to Sir Draithon.",
+    "route_limit": "Observe the final report once; receiving the attuned gem or merely locating Ayaname is not completion.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Kidnapped_Handmaiden"
+    ]
+  },
+  {
+    "display_name": "Liberation of Uziz",
+    "ledger": "qm_v1_liberation_of_uziz",
+    "source_keys": [
+      "AbductedCompleted_0313"
+    ],
+    "objective": "Reach the final Virindi Delegate after freeing the Uziz townsfolk and claim rewards.",
+    "route_limit": "Observe only the final Abducted completion write; do not reuse GenesisCompleted from Rynthid Foothold.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Liberation_of_Uziz"
+    ]
+  },
+  {
+    "display_name": "Lord Rytheran's Journal",
+    "ledger": "qm_v1_lord_rytheran_s_journal",
+    "source_keys": [
+      "rythjournalrepeat"
+    ],
+    "objective": "Final untranslated-journal return to Danira. Has its own reward; also a prerequisite within Jester Focuses. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lord_Rytheran's_Journal"
+    ]
+  },
+  {
+    "display_name": "Lost Lore",
+    "ledger": "qm_v1_lost_lore",
+    "source_keys": [
+      "LostLorePageCompleted_0712"
+    ],
+    "objective": "The Story of the Lost Sisters → Popkin of the Gate",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lost_Lore"
+    ]
+  },
+  {
+    "display_name": "Lost Messenger",
+    "ledger": "qm_v1_lost_messenger",
+    "source_keys": [
+      "LostMessengerQuest_Wait"
+    ],
+    "objective": "Intercepted Note → Barsinni",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lost_Messenger"
+    ]
+  },
+  {
+    "display_name": "Lost Pet",
+    "ledger": "qm_v1_lost_pet",
+    "source_keys": [
+      "LostPetQuestCompleted0805"
+    ],
+    "objective": "Darling's Collar → Xsao Lann",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lost_Pet"
+    ]
+  },
+  {
+    "display_name": "Lunnum's Pyre",
+    "ledger": "qm_v1_lunnum_s_pyre",
+    "source_keys": [
+      "LunnumsPyreQuestCompleted0805"
+    ],
+    "objective": "Smoldering Ice Log → Fiun Gaya",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lunnum's_Pyre"
+    ]
+  },
+  {
+    "display_name": "Lunnum's Return",
+    "ledger": "qm_v1_lunnum_s_return",
+    "source_keys": [
+      "LunnumsReturnComplete1006"
+    ],
+    "objective": "Lunnum's Token → Fiun Layeel",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Lunnum's_Return"
+    ]
+  },
+  {
+    "display_name": "Messenger's Collar Quest",
+    "ledger": "qm_v1_messenger_s_collar_quest",
+    "source_keys": [
+      "MessengersCollar_Repeat"
+    ],
+    "objective": "Falatacot Tome → Fanzen San the Translator",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Messenger's_Collar_Quest"
+    ]
+  },
+  {
+    "display_name": "Moarsman Spawning Pools",
+    "ledger": "qm_v1_moarsman_spawning_pools",
+    "source_keys": [
+      "TaskSpawnPoolsWait"
+    ],
+    "objective": "Clear all four specific Moarsman Spawning Pools and report.",
+    "route_limit": "Observe all three faction final rewards once; do not credit individual pools.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Moarsman_Spawning_Pools"
+    ]
+  },
+  {
+    "display_name": "Moarsmen on the Shores",
+    "ledger": "qm_v1_moarsmen_on_the_shores",
+    "source_keys": [
+      "RedspireMoarsmenComplete_0508",
+      "MayoiMoarsmenComplete_0508",
+      "DanbyMoarsmenComplete_0508",
+      "BeachFortMoarsmenComplete_0508",
+      "AyanBaqurMoarsmenComplete_0508",
+      "EastwatchMoarsmenComplete_0508"
+    ],
+    "objective": "Claim one documented tainted-egg return reward from any of the six regional variants.",
+    "route_limit": "Map all six final flags to one regional-family ledger.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Moarsmen_on_the_Shores"
+    ]
+  },
+  {
+    "display_name": "Monouga Laboratory",
+    "ledger": "qm_v1_monouga_laboratory",
+    "source_keys": [
+      "ProdigalMonougaCompleted0707"
+    ],
+    "objective": "Finish one 80/120/150 experiment-laboratory variant and return its log/orb to Corporal Liao Chen.",
+    "route_limit": "Observe the common completed flag; exclude start flags and per-log repeat counters.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Monouga_Laboratory"
+    ]
+  },
+  {
+    "display_name": "Monthly Game Hunter",
+    "ledger": "qm_v1_monthly_game_hunter",
+    "source_keys": [
+      "MGHEasyCompleted",
+      "MGHModerateCompleted",
+      "MGHHardCompleted",
+      "MGHVeryHardCompleted",
+      "MGHExtremeCompleted"
+    ],
+    "objective": "Finish one assigned Rand hunt and claim its XP reward; all difficulties/months share one credit.",
+    "route_limit": "Observe the ten native hunt reward branches through five keys into one family ledger. No extra credits by difficulty, month, seasonal target, or token cash-in.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Monthly_Game_Hunter"
+    ]
+  },
+  {
+    "display_name": "Mountain Sewer Quest",
+    "ledger": "qm_v1_mountain_sewer_quest",
+    "source_keys": [
+      "BurFlagged(Gem)"
+    ],
+    "objective": "Return the Inscribed Purple Gem to Bretself the Translator.",
+    "route_limit": "Use the final gem-return flag for Mountain Sewer only. Do not award a full Bur-flagging credit from this one component.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Mountain_Sewer_Quest"
+    ]
+  },
+  {
+    "display_name": "Necklace of the Elemental Adepts Quest",
+    "ledger": "qm_v1_necklace_of_the_elemental_adepts_quest",
+    "source_keys": [
+      "NecklaceOfTheElementsComplete"
+    ],
+    "objective": "Count Dardante's Notes → Royal Guard Qumasha",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Necklace_of_the_Elemental_Adepts_Quest"
+    ]
+  },
+  {
+    "display_name": "Nexus Crawl",
+    "ledger": "qm_v1_nexus_crawl",
+    "source_keys": [
+      "NexusCrawlCompleted0509"
+    ],
+    "objective": "Place the resonator at the final Apostate Deposit and report to Ned.",
+    "route_limit": "Observe Ned’s final report once; not resonator issuance, access flag, or mask conversion.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Nexus_Crawl"
+    ]
+  },
+  {
+    "display_name": "Ninja Academy",
+    "ledger": "qm_v1_ninja_academy",
+    "source_keys": [
+      "NinjaAcademyFinished_0812"
+    ],
+    "objective": "Spectral Nanjou Master's Sword → Darviss",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Ninja_Academy"
+    ]
+  },
+  {
+    "display_name": "Northern Shroud Cabal",
+    "ledger": "qm_v1_northern_shroud_cabal",
+    "source_keys": [
+      "NorthernShroudCabalComplete_0511"
+    ],
+    "objective": "Node Leech's Medallion → Nomendar al-Rakh",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Northern_Shroud_Cabal"
+    ]
+  },
+  {
+    "display_name": "Of Trust and Betrayal",
+    "ledger": "qm_v1_of_trust_and_betrayal",
+    "source_keys": [
+      "OfTrustBetrayalComplete_0511"
+    ],
+    "objective": "Return the Grazer Bug from the Viamontian Seeker to Jedeth Eckhart.",
+    "route_limit": "Observe the specific complete flag, not access or generic contract counters.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Of_Trust_and_Betrayal"
+    ]
+  },
+  {
+    "display_name": "Olthoi Queen Quest",
+    "ledger": "qm_v1_olthoi_queen_quest",
+    "source_keys": [
+      "MaraeFinalReward"
+    ],
+    "objective": "Earn the Olthoi Queen killing-blow record and return the raw Queen’s Head to Aun Hareltah.",
+    "route_limit": "Observe the guarded first full head reward once. Do not use head possession, mounted head, bell turn-in, or the separate carapace armor exchange.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Olthoi_Queen_Quest"
+    ]
+  },
+  {
+    "display_name": "Palm Fort",
+    "ledger": "qm_v1_palm_fort",
+    "source_keys": [
+      "PalmFortDefended1209"
+    ],
+    "objective": "Claim a successful defense reward from the faction Fort Commander.",
+    "route_limit": "One defense credit across faction forts; no credit from starting the wave, failed defenses, or supply deliveries.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Palm_Fort"
+    ]
+  },
+  {
+    "display_name": "Paradox-touched Olthoi Egg Quest",
+    "ledger": "qm_v1_paradox_touched_olthoi_egg_quest",
+    "source_keys": [
+      "ParadoxEggWait"
+    ],
+    "objective": "Return a bound Paradox-touched Olthoi Egg to Adrien Swiftblade.",
+    "route_limit": "Observe ParadoxEggWait. Do not count the start flag or sum ParadoxEggCount.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Paradox-touched_Olthoi_Egg_Quest"
+    ]
+  },
+  {
+    "display_name": "Pay Respects to Antius Blackmoor",
+    "ledger": "qm_v1_pay_respects_to_antius_blackmoor",
+    "source_keys": [
+      "paidrespectstoantiusblackmoor"
+    ],
+    "objective": "Use the hidden Bier of Antius Blackmoor and claim its one-time XP.",
+    "route_limit": "One credit on the Bier reward; repeated memorial visits cannot add more.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Pay_Respects_to_Antius_Blackmoor"
+    ]
+  },
+  {
+    "display_name": "Portal Space Rifts",
+    "ledger": "qm_v1_portal_space_rifts",
+    "source_keys": [
+      "PortalSpaceRiftsDone"
+    ],
+    "objective": "Defeat each of the four elemental Zeniths and report to Marcus.",
+    "route_limit": "One credit for the full four-element final report; no per-element or equipment-issuance credits.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Portal_Space_Rifts"
+    ]
+  },
+  {
+    "display_name": "Queen Elysa in Danger",
+    "ledger": "qm_v1_queen_elysa_in_danger",
+    "source_keys": [
+      "QueenElysaInDangerCompleted"
+    ],
+    "objective": "Follow the investigation, personally speak to the rescued Elysa, then report to Dargeth.",
+    "route_limit": "Observe Dargeth’s final completion once. Do not award on start, messenger talk, bow possession or the shared world rescue event alone.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Queen_Elysa_in_Danger"
+    ]
+  },
+  {
+    "display_name": "Red Veined Grub Collection Task",
+    "ledger": "qm_v1_red_veined_grub_collection_task",
+    "source_keys": [
+      "RedVeinedGrubTaskWait"
+    ],
+    "objective": "Deliver twenty personally collected Red Veined Grubs to Guliant.",
+    "route_limit": "Observe the guarded twenty-grub reward once; repeated collection adds no mastery.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Red_Veined_Grub_Collection_Task"
+    ]
+  },
+  {
+    "display_name": "Releasing the Light",
+    "ledger": "qm_v1_releasing_the_light",
+    "source_keys": [
+      "BlessedCaveCompleted_0912"
+    ],
+    "objective": "Free Bist’elle, speak to the released spirit, then report to Shah-hi.",
+    "route_limit": "Observe Shah-hi’s main final reward once, not the bulb access flag or optional tome payout.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Releasing_the_Light"
+    ]
+  },
+  {
+    "display_name": "Renegade Mace Quest",
+    "ledger": "qm_v1_renegade_mace_quest",
+    "source_keys": [
+      "ReignofTerrorComplete_0511"
+    ],
+    "objective": "Final Olthoi Chitin return to Sergeant Maloth; resolves earlier Reign of Terror label. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Renegade_Mace_Quest"
+    ]
+  },
+  {
+    "display_name": "Rynthid Assessment",
+    "ledger": "qm_v1_rynthid_assessment",
+    "source_keys": [
+      "RynthidTrainingCompleted_1013"
+    ],
+    "objective": "Finish the assessment tests and color sequence, then claim the final crystal reward.",
+    "route_limit": "One final assessment credit across randomized tests/sequences; no credit for entry or an individual test.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Rynthid_Assessment"
+    ]
+  },
+  {
+    "display_name": "Rynthid Foothold",
+    "ledger": "qm_v1_rynthid_foothold",
+    "source_keys": [
+      "GenesisCompleted_0813"
+    ],
+    "objective": "Claim the post-Avarice reward and return to Vision of Horror.",
+    "route_limit": "Observe Vision’s final report once; the Aspect’s key and Rynthid Recall spell are reward stages, not extra quests.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Rynthid_Foothold"
+    ]
+  },
+  {
+    "display_name": "Save Karul",
+    "ledger": "qm_v1_save_karul",
+    "source_keys": [
+      "DeconstructionCompleted_0213"
+    ],
+    "objective": "Defeat the golem sequence and claim Lieutenant Karul’s final-room reward.",
+    "route_limit": "Observe Karul’s final reward once; not the start conversation or individual golem deaths.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Save_Karul"
+    ]
+  },
+  {
+    "display_name": "Sawato Extortion",
+    "ledger": "qm_v1_sawato_extortion",
+    "source_keys": [
+      "SawatoExtortionComplete0806"
+    ],
+    "objective": "Sawato Bandit's Ledger → Sergeant Huang",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Sawato_Extortion"
+    ]
+  },
+  {
+    "display_name": "Search for Gareth Dain",
+    "ledger": "qm_v1_search_for_gareth_dain",
+    "source_keys": [
+      "DainAlive",
+      "DainDead"
+    ],
+    "objective": "Claim Polestar from Talira Dain using Book of Memories, or Staff of Coercion from Dalius Kendmar using A Poorly Translated Journal.",
+    "route_limit": "Map DainAlive and DainDead to one ledger. Never use MessengersCollar_Repeat for this quest.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Search_for_Gareth_Dain"
+    ]
+  },
+  {
+    "display_name": "Sepulcher of Nightmares",
+    "ledger": "qm_v1_sepulcher_of_nightmares",
+    "source_keys": [
+      "TomeNightmareSepulcher_0805"
+    ],
+    "objective": "Return Translated Dericost Tome to Sarkin Killcrane after the Nightmare Gate dungeon.",
+    "route_limit": "Observe the final translated-tome flag, not the vestibule lock or optional lore rewards.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Sepulcher_of_Nightmares"
+    ]
+  },
+  {
+    "display_name": "Shade Iron",
+    "ledger": "qm_v1_shade_iron",
+    "source_keys": [
+      "ShadeIronWait"
+    ],
+    "objective": "Shade Iron Ore Sample → Mekhmet",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Shade_Iron"
+    ]
+  },
+  {
+    "display_name": "Shambling Archivist Destroyer",
+    "ledger": "qm_v1_shambling_archivist_destroyer",
+    "source_keys": [
+      "TaskGrave1BossKillWait"
+    ],
+    "objective": "Defeat the Society’s Shambling Archivist target and report.",
+    "route_limit": "One final boss-assignment report credit across factions.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Shambling_Archivist_Destroyer"
+    ]
+  },
+  {
+    "display_name": "Shield of Yanshi Quest",
+    "ledger": "qm_v1_shield_of_yanshi_quest",
+    "source_keys": [
+      "YanshiTunnelsComplete1205"
+    ],
+    "objective": "Final Swarm Matron claw return to Royal Guard Adrana. Do not use the extra first-kill flag. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Shield_of_Yanshi_Quest"
+    ]
+  },
+  {
+    "display_name": "Silifi of Crimson Night Quest",
+    "ledger": "qm_v1_silifi_of_crimson_night_quest",
+    "source_keys": [
+      "SilifiofCrimsonNightComplete"
+    ],
+    "objective": "Ruby of Crimson Night → Maqudh al Nishadina",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Silifi_of_Crimson_Night_Quest"
+    ]
+  },
+  {
+    "display_name": "Snow Tusker Blood Collection",
+    "ledger": "qm_v1_snow_tusker_blood_collection",
+    "source_keys": [
+      "TuskerBloodCollectionWait"
+    ],
+    "objective": "Start Ichihiri's task and return ten bound Snow Tusker Blood Samples.",
+    "route_limit": "Use local minimum 200 and the final ten-sample reward flag; keep the wiki's 180+ text visible as a server difference.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Snow_Tusker_Blood_Collection"
+    ]
+  },
+  {
+    "display_name": "Soul Hunter Quest",
+    "ledger": "qm_v1_soul_hunter_quest",
+    "source_keys": [
+      "SoulHunterQuestWait_1106"
+    ],
+    "objective": "Soul Hunter's Orders → Hasin Lin",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Soul_Hunter_Quest"
+    ]
+  },
+  {
+    "display_name": "Soul Stone Quest",
+    "ledger": "qm_v1_soul_stone_quest",
+    "source_keys": [
+      "RoadsComplete"
+    ],
+    "objective": "Finish the Soul Stone trials assigned by personal historical allegiance and claim Camryn/Nuhmudira’s final stone.",
+    "route_limit": "One ledger across both NPC versions and valid allegiance routes. Do not grant separate credits for each trial or the subsequent Noble/Regal weapon crafting.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Soul_Stone_Quest"
+    ]
+  },
+  {
+    "display_name": "Southern Shroud Cabal",
+    "ledger": "qm_v1_southern_shroud_cabal",
+    "source_keys": [
+      "SouthernShroudCabalComplete_0511"
+    ],
+    "objective": "Ley Leech's Medallion → Nomendar al-Rakh",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Southern_Shroud_Cabal"
+    ]
+  },
+  {
+    "display_name": "Splitting Grael",
+    "ledger": "qm_v1_splitting_grael",
+    "source_keys": [
+      "SplitGraelHighComplete0806"
+    ],
+    "objective": "Shard of the Abyssal Totem → Hoshar ibn Jalaq",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Splitting_Grael_(High)",
+      "https://asheron.info/wiki/index.php/Splitting_Grael_(Low)",
+      "https://asheron.info/wiki/index.php/Splitting_Grael_(Mid)"
+    ]
+  },
+  {
+    "display_name": "Supply Saboteur",
+    "ledger": "qm_v1_supply_saboteur",
+    "source_keys": [
+      "SuppliesTurnedIn1209"
+    ],
+    "objective": "Eldrytch Web Supplies → Fort Commander",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Supply_Saboteur"
+    ]
+  },
+  {
+    "display_name": "Suzuhara Baijin's Delivery",
+    "ledger": "qm_v1_suzuhara_baijin_s_delivery",
+    "source_keys": [
+      "SuzuharaComplete_0511"
+    ],
+    "objective": "Final care-package return to Suzuhara Sheshumi; wiki start 60+. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Suzuhara_Baijin's_Delivery"
+    ]
+  },
+  {
+    "display_name": "Tanada House of Water Quest",
+    "ledger": "qm_v1_tanada_house_of_water_quest",
+    "source_keys": [
+      "TanadaHouseofWaterCompleted"
+    ],
+    "objective": "Tanada House of Water Orders → Meshenq",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Tanada_House_of_Water_Quest"
+    ]
+  },
+  {
+    "display_name": "Tanada Temple of Black Water Quest",
+    "ledger": "qm_v1_tanada_temple_of_black_water_quest",
+    "source_keys": [
+      "TanadaTempleofBlackWaterCompleted"
+    ],
+    "objective": "Return Mask of the Watcher of Black Water to Pau Yajin after the temple.",
+    "route_limit": "Observe only the temple-specific completed flag.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Tanada_Temple_of_Black_Water_Quest"
+    ]
+  },
+  {
+    "display_name": "The Archivist Quest",
+    "ledger": "qm_v1_the_archivist_quest",
+    "source_keys": [
+      "TheArchivist_Repeat"
+    ],
+    "objective": "Observations: Harraag → Ennio di Cinghalle",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/The_Archivist_Quest"
+    ]
+  },
+  {
+    "display_name": "The Black Spear Ice Totem",
+    "ledger": "qm_v1_the_black_spear_ice_totem",
+    "source_keys": [
+      "BlackSpearIceTotemCompleted"
+    ],
+    "objective": "Final totem return to either Kalakh or Arialle. Wiki explicitly permits both NPC alternatives on repeats; one credit total. Exact wiki/native proof and final reward verified; provenance and all native stamp writers cleared.",
+    "route_limit": "Retain the selected final endpoint and existing reviewed native-key scope.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/The_Black_Spear_Ice_Totem"
+    ]
+  },
+  {
+    "display_name": "The Shadows of Bitter Winter",
+    "ledger": "qm_v1_the_shadows_of_bitter_winter",
+    "source_keys": [
+      "ShadowsWinterComplete1205"
+    ],
+    "objective": "Mace of Hiranaith → Shade of Farelaith",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/The_Shadows_of_Bitter_Winter"
+    ]
+  },
+  {
+    "display_name": "Tracing The Stone",
+    "ledger": "qm_v1_tracing_the_stone",
+    "source_keys": [
+      "TaskGrave2WallCarvingWait"
+    ],
+    "objective": "Personally trace the Mhoire Cenotaph and return the imprinted paper.",
+    "route_limit": "Observe all six genuine final rewards once across factions; neither starter paper issuance nor a generic recipe success elsewhere counts.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Tracing_The_Stone"
+    ]
+  },
+  {
+    "display_name": "Tracking Grael",
+    "ledger": "qm_v1_tracking_grael",
+    "source_keys": [
+      "TrackingGrael_Wait"
+    ],
+    "objective": "Return the final Mukkir Scion head to Varlanna after the White Spear stage.",
+    "route_limit": "Observe TrackingGrael_Wait, never the shared Silveran token flag or the White Spear access flag.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Tracking_Grael"
+    ]
+  },
+  {
+    "display_name": "Trade Alliance Quest",
+    "ledger": "qm_v1_trade_alliance_quest",
+    "source_keys": [
+      "TradeAllianceQuestCompleted"
+    ],
+    "objective": "Deliver the Gonjoku agreement, Lubziklan agreement and Renald refusal to Anton Sillezi.",
+    "route_limit": "Observe only TradeAllianceQuestCompleted; do not count the three agreement flags separately.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Trade_Alliance_Quest"
+    ]
+  },
+  {
+    "display_name": "Uncovering the Renegades",
+    "ledger": "qm_v1_uncovering_the_renegades",
+    "source_keys": [
+      "UncoverRenegadesComplete0309"
+    ],
+    "objective": "Apostate Orders → Aruq ibn Balthar",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Uncovering_the_Renegades"
+    ]
+  },
+  {
+    "display_name": "Unleash the Gearknights",
+    "ledger": "qm_v1_unleash_the_gearknights",
+    "source_keys": [
+      "UnleashGearKnightComplete0909"
+    ],
+    "objective": "Aetherium Core Fragment → Hei Shou",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Unleash_the_Gearknights"
+    ]
+  },
+  {
+    "display_name": "Virindi Rescue",
+    "ledger": "qm_v1_virindi_rescue",
+    "source_keys": [
+      "VirindiRescueCompleted0612"
+    ],
+    "objective": "Essence of Dravann → Omarah",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Virindi_Rescue"
+    ]
+  },
+  {
+    "display_name": "Wardley and the Wights",
+    "ledger": "qm_v1_wardley_and_the_wights",
+    "source_keys": [
+      "FrozenWightLairComplete1111"
+    ],
+    "objective": "Wardley's Necklace → Halvor",
+    "route_limit": "Only the previously approved selected route/key is included. Linked family pages do not automatically approve additional routes.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Wardley_and_the_Wights"
+    ]
+  },
+  {
+    "display_name": "Whispering Blade Chapterhouse Access",
+    "ledger": "qm_v1_whispering_blade_chapterhouse_access",
+    "source_keys": [
+      "WhisperingBladeChapterhouseAccess_Wait"
+    ],
+    "objective": "Return the Untranslated Bound Falatacot Fragment to Harkwull the Discreet.",
+    "route_limit": "Observe the quest-specific wait flag for one protected ledger.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Whispering_Blade_Chapterhouse_Access"
+    ]
+  },
+  {
+    "display_name": "Whispering Blade Infiltration",
+    "ledger": "qm_v1_whispering_blade_infiltration",
+    "source_keys": [
+      "WhisperingBladeInfiltrationWait"
+    ],
+    "objective": "Return Letter to Commander Jin Zo to Garmasi after defeating the commander.",
+    "route_limit": "Observe its quest-specific wait flag, not the next quest's access flag.",
+    "wiki_urls": [
+      "https://asheron.info/wiki/index.php/Whispering_Blade_Infiltration"
+    ]
+  }
+]

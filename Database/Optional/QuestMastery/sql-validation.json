@@ -1,0 +1,13 @@
+{
+  "tests": [
+    "fresh import: 127 ledgers",
+    "idempotent second import",
+    "legacy Tikola identity preserved",
+    "collision aborts without partial ledger inserts",
+    "native definition drift rejected",
+    "native writer type drift rejected"
+  ],
+  "live_world_quest_rows_unchanged": true,
+  "disposable_schema_removed": true,
+  "gameplay_test": false
+}

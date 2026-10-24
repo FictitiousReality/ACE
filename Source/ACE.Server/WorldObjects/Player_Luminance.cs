@@ -34,7 +34,7 @@ namespace ACE.Server.WorldObjects
         /// <summary>
         /// Directly grants luminance to the player, without any additional luminance modifiers
         /// </summary>
-        public void GrantLuminance(long amount, XpType xpType, ShareType shareType = ShareType.All)
+        public void GrantLuminance(long amount, XpType xpType, ShareType shareType = ShareType.All, XpType? masterySource = null)
         {
             if (IsOlthoiPlayer)
                 return;
@@ -43,10 +43,10 @@ namespace ACE.Server.WorldObjects
             {
                 // this will divy up the luminance, and re-call this function
                 // with ShareType.Fellowship removed
-                Fellowship.SplitLuminance((ulong)amount, xpType, shareType, this);
+                Fellowship.SplitLuminance((ulong)amount, xpType, shareType, this, masterySource ?? xpType);
             }
             else
-                AddLuminance(amount, xpType);
+                AddLuminance(QuestMasteryManager.ApplyPersonalBonus(this, amount, masterySource ?? xpType), xpType);
         }
 
         private void AddLuminance(long amount, XpType xpType)

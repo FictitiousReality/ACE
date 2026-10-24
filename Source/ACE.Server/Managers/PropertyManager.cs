@@ -498,6 +498,8 @@ namespace ACE.Server.Managers
 
         public static readonly ReadOnlyDictionary<string, Property<bool>> DefaultBooleanProperties =
             DictOf(
+                ("quest_mastery_enabled", new Property<bool>(false, "Enable audited permanent per-character Quest Mastery credit and notifications.")),
+                ("quest_mastery_rewards_enabled", new Property<bool>(false, "Apply +0.5% personal XP/Luminance per mastery adventure, capped at +100%. Requires quest_mastery_enabled.")),
                 ("account_login_boots_in_use", new Property<bool>(true, "if FALSE, oldest connection to account is not booted when new connection occurs")),
                 ("advanced_combat_pets", new Property<bool>(false, "(non-retail function) If enabled, Combat Pets can cast spells")),
                 ("advocate_fane_auto_bestow", new Property<bool>(false, "If enabled, Advocate Fane will automatically bestow new advocates to advocate_fane_auto_bestow_level")),

@@ -499,7 +499,7 @@ namespace ACE.Server.Entity
         /// <param name="amount">The input amount of XP</param>
         /// <param name="xpType">The type of XP (quest XP is handled differently)</param>
         /// <param name="player">The fellowship member who originated the XP</param>
-        public void SplitXp(ulong amount, XpType xpType, ShareType shareType, Player player)
+        public void SplitXp(ulong amount, XpType xpType, ShareType shareType, Player player, XpType? masterySource = null)
         {
             // https://asheron.fandom.com/wiki/Announcements_-_2002/02_-_Fever_Dreams#Letter_to_the_Players_1
 
@@ -516,7 +516,7 @@ namespace ACE.Server.Entity
                 {
                     var fellowXpType = player == member ? XpType.Quest : XpType.Fellowship;
 
-                    member.GrantXP(perAmount, fellowXpType, shareType);
+                    member.GrantXP(perAmount, fellowXpType, shareType, masterySource ?? xpType);
                 }
             }
 
@@ -532,7 +532,7 @@ namespace ACE.Server.Entity
 
                     var fellowXpType = player == member ? xpType : XpType.Fellowship;
 
-                    member.GrantXP((long)shareAmount, fellowXpType, shareType);
+                    member.GrantXP((long)shareAmount, fellowXpType, shareType, masterySource ?? xpType);
                 }
 
                 return;
@@ -552,7 +552,7 @@ namespace ACE.Server.Entity
 
                     var fellowXpType = player == member ? xpType : XpType.Fellowship;
 
-                    member.GrantXP((long)playerTotal, fellowXpType, shareType);
+                    member.GrantXP((long)playerTotal, fellowXpType, shareType, masterySource ?? xpType);
                 }
             }
         }
@@ -563,7 +563,7 @@ namespace ACE.Server.Entity
         /// <param name="amount">The input amount of luminance</param>
         /// <param name="xpType">The type of lumaniance (quest luminance is handled differently)</param>
         /// <param name="player">The fellowship member who originated the luminance</param>
-        public void SplitLuminance(ulong amount, XpType xpType, ShareType shareType, Player player)
+        public void SplitLuminance(ulong amount, XpType xpType, ShareType shareType, Player player, XpType? masterySource = null)
         {
             // https://asheron.fandom.com/wiki/Announcements_-_2002/02_-_Fever_Dreams#Letter_to_the_Players_1
 
@@ -572,7 +572,7 @@ namespace ACE.Server.Entity
             if (xpType == XpType.Quest)
             {
                 // quest luminance is not shared
-                player.GrantLuminance((long)amount, XpType.Quest, shareType);
+                player.GrantLuminance((long)amount, XpType.Quest, shareType, masterySource ?? xpType);
             }
             else
             {
@@ -596,7 +596,7 @@ namespace ACE.Server.Entity
 
                     var fellowXpType = player == member ? xpType : XpType.Fellowship;
 
-                    member.GrantLuminance(perAmount, fellowXpType, shareType);
+                    member.GrantLuminance(perAmount, fellowXpType, shareType, masterySource ?? xpType);
                 }
             }
         }
